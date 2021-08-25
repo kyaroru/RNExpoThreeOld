@@ -45,4 +45,7 @@ Demo is laggy because it is in `.gif`, in actual device it would be much smoothe
 Have fun!
 
 
-
+## Credits
+- [Shiba](https://sketchfab.com/3d-models/shiba-faef9fe5ace445e7b2989d1c1ece361c) Model from [zixisun02](https://sketchfab.com/dogerlo) @ [Sketchfab](https://sketchfab.com/)
+- [Ice Bear](https://sketchfab.com/3d-models/ice-bear-we-bare-bears-77f6d43d4dc740dfb8a500743676a18c) Model from [nissato](https://sketchfab.com/Nissato) @ [Sketchfab](https://sketchfab.com/)
+- [Hamburger](https://github.com/BonnierNews/react-native-3d-model-view/tree/master/example/obj) Model from [react-native-3d-model-view](https://github.com/BonnierNews/react-native-3d-model-view)
