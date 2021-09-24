@@ -37,6 +37,9 @@ or
 npx react-native run-android
 ```
 
+## Android APK
+[Download APK](https://drive.google.com/file/d/1vAaQF4qULKuWp6IfRliQaM6Wkatmyz4c/view?usp=sharing)
+
 ## Demo
 Demo is laggy because it is in `.gif`, in actual device it would be much smoother 😉
 
