@@ -1,5 +1,11 @@
 ﻿# RNExpoThree
  
+ **NOTE: this is outdated**
+ 
+ For new example please refer to [RNExpoThree](https://github.com/kyaroru/RNExpoThree)
+
+---
+ 
  This is an example of 3D rendering using 
  - [React Native](https://reactnative.dev/)
  - [expo-three](https://github.com/expo/expo-three)
@@ -22,8 +28,8 @@
 ## Clone
 
 ```
-git clone https://github.com/kyaroru/RNExpoThree
-cd RNExpoThree
+git clone https://github.com/kyaroru/RNExpoThreeOld
+cd RNExpoThreeOld
 yarn install
 cd ios && pod install // for ios
 ```
@@ -36,14 +42,6 @@ npx react-native run-ios
 or
 npx react-native run-android
 ```
-
-## Android APK
-[Download APK](https://drive.google.com/file/d/1vAaQF4qULKuWp6IfRliQaM6Wkatmyz4c/view?usp=sharing)
-
-## Demo
-Demo is laggy because it is in `.gif`, in actual device it would be much smoother 😉
-
-![Demo](http://g.recordit.co/MelfordMQx.gif)
 
 Have fun!
 
